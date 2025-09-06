@@ -1,7 +1,7 @@
 {
 	"name": "Python 3",
 	"build": {
-		"dockerfile": "Dockerfile",
+		"dockerfile": "Dockerfileee",
 		"context": "..",
 		"args": { 
 			"VARIANT": "3.10",      // Set Python version here
